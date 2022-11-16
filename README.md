@@ -78,7 +78,7 @@ jobs:
 ### Tutorial On How To Run This Action: 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=2zF5App8Px4">
-         <img src="https://img.youtube.com/vi/2zF5App8Px4/0.jpg" style="width:100%;">
+         <img src="https://img.youtube.com/vi/2zF5App8Px4/0.jpg" style="width:75%;">
       </a>
 </div>
 
