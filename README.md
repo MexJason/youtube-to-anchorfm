@@ -75,6 +75,12 @@ jobs:
 
 **NOTE**: you need to [set up the secrets](https://docs.github.com/en/free-pro-team@latest/actions/reference/encrypted-secrets#creating-encrypted-secrets-for-a-repository) for _ANCHOR_EMAIL_ and _ANCHOR_PASSWORD_. This environment variables are mandatory as they specify the sign in account.
 
+### Tutorial On How To Run This Action: 
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=2zF5App8Px4">
+         <img src="https://img.youtube.com/vi/2zF5App8Px4/0.jpg" style="width:100%;">
+      </a>
+</div>
 
 ## Environment variables
 
